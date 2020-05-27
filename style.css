@@ -1,0 +1,22 @@
+body{
+  text-align: center;
+  background-image: url("image.jpg");
+}
+h1{
+  font-size: 50px;
+  color: #f7f7f7;
+}
+
+a{
+  margin-top: 50px;
+  font-size: 40px;
+  display: inline-block;
+  text-decoration: none;
+
+}
+
+a:hover {
+  color:#c70039;
+  font-size: 50px;
+  transition: 1s;
+}
