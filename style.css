@@ -23,7 +23,7 @@ a{
 a:hover {
   color:#c70039;
   transform: scale(1.3);
-  transition: 1s;
+  transition: .7s;
 }
 
 
